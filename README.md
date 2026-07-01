@@ -115,21 +115,21 @@ History Page
 
 📦 Installation
 
-    Clone the repository:
+    ☑️ Clone the repository:
     
-    git clone https://github.com/VenkatVishal-VK/Encrypt-Pro.git
+        git clone https://github.com/VenkatVishal-VK/Encrypt-Pro.git
     
-    Navigate to the project folder:
+    ☑️ Navigate to the project folder:
     
-    cd Encrypt-Pro
+        cd Encrypt-Pro
     
-    Install dependencies:
+    ☑️ Install dependencies:
     
-    pip install -r requirements.txt
+        pip install -r requirements.txt
     
-    Run the application:
+    ☑️ Run the application:
     
-    python main.py
+        python main.py
     
 🎯 Hackathon Objective
 
