@@ -105,6 +105,14 @@ AI Security Assistant
 
 <img width="1920" height="1020" alt="Screenshot 2026-06-28 115338" src="https://github.com/user-attachments/assets/fdac93d2-a01c-420f-9746-5f8fe040e77d" />
 
+Lemma agent 
+
+    User input
+    <img width="1900" height="878" alt="Screenshot 2026-06-28 120218" src="https://github.com/user-attachments/assets/c61c1c79-9576-44de-9591-4c4e01617a87" />
+    
+    Agent Recommendation
+    <img width="1918" height="883" alt="Screenshot 2026-06-28 120337" src="https://github.com/user-attachments/assets/a0f774c9-d0a2-49c8-9263-664029f02319" />
+
 History Page
 
 <img width="1127" height="851" alt="Screenshot 2026-06-28 121107" src="https://github.com/user-attachments/assets/4f06ee58-ca7c-4b71-b331-a896ea101bf1" />
