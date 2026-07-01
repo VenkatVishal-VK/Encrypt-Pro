@@ -100,15 +100,15 @@ Dashboard
 
 Encryption Center
 
-(Add Screenshot)
+<img width="1920" height="1020" alt="Screenshot 2026-06-28 115541" src="https://github.com/user-attachments/assets/a42dde9a-e7c3-418e-a480-bee35460e021" />
 
 AI Security Assistant
 
-(Add Screenshot)
+<img width="1920" height="1020" alt="Screenshot 2026-06-28 115338" src="https://github.com/user-attachments/assets/fdac93d2-a01c-420f-9746-5f8fe040e77d" />
 
 History Page
 
-(Add Screenshot)
+<img width="1127" height="851" alt="Screenshot 2026-06-28 121107" src="https://github.com/user-attachments/assets/4f06ee58-ca7c-4b71-b331-a896ea101bf1" />
 
 🎥 Demo Video
 
