@@ -5,76 +5,98 @@ Encryptor Pro is a cybersecurity desktop application developed using Python and 
 The platform intelligently selects the most suitable encryption algorithm based on file characteristics, risk level, and performance requirements.
 
 🚀 Features
+
 🔒 Hybrid AES + RSA Encryption
-AES-256 encrypts file contents efficiently.
-RSA encrypts the AES session key for secure key exchange.
-Ideal for sensitive and confidential files.
+    
+    AES-256 encrypts file contents efficiently.
+    
+    RSA encrypts the AES session key for secure key exchange.
+    
+    Ideal for sensitive and confidential files.
+    
 ⚡ ChaCha20 Encryption
-High-speed encryption for large files and multimedia content.
-Optimized for videos and large datasets.
-Provides strong security with excellent performance.
+
+    High-speed encryption for large files and multimedia content.
+    Optimized for videos and large datasets.
+    Provides strong security with excellent performance.
+    
 🤖 AI Security Assistant
-Analyzes uploaded files.
-Calculates security score and risk level.
-Recommends the most suitable encryption algorithm.
-Explains recommendations in simple language.
+
+    Analyzes uploaded files.
+    Calculates security score and risk level.
+    Recommends the most suitable encryption algorithm.
+    Explains recommendations in simple language.
+    
 📝 Supported File Types
-Text Files (.txt)
-Images (.png, .jpg, .jpeg)
-Videos (.mp4, .avi, .mkv, .mov)
-Documents (.pdf, .docx)
-Spreadsheets (.xlsx, .csv)
-Archives (.zip, .rar)
+
+    Text Files (.txt)
+    Images (.png, .jpg, .jpeg)
+    Videos (.mp4, .avi, .mkv, .mov)
+    Documents (.pdf, .docx)
+    Spreadsheets (.xlsx, .csv)
+    Archives (.zip, .rar)
+    
 📜 Encryption History
-Stores encryption and decryption activities.
-Tracks file names, timestamps, and algorithms used.
+
+    Stores encryption and decryption activities.
+    Tracks file names, timestamps, and algorithms used.
+    
 👤 User Authentication
-Secure login and registration system.
-Password hashing using bcrypt.
-User-specific encryption history.
+
+    Secure login and registration system.
+    Password hashing using bcrypt.
+    User-specific encryption history.
+    
 🏗 System Architecture
 
-User File
-↓
-AI Security Analysis
-↓
-Risk Assessment
-↓
-Algorithm Recommendation
-↓
-Encryption Process
-↓
-Secure Storage
+    User File
+      ↓
+    AI Security Analysis
+      ↓
+    Risk Assessment
+      ↓
+    Algorithm Recommendation
+      ↓
+    Encryption Process
+      ↓
+    Secure Storage
 
 🔐 Encryption Strategy
-File Type	Recommended Algorithm
-Sensitive Documents	AES + RSA
-Images	AES + RSA
-Small Videos	AES + RSA
-Large Videos	ChaCha20
-Large Files	ChaCha20
+
+    File Type	Recommended Algorithm
+    Sensitive Documents	AES + RSA
+    Images	AES + RSA
+    Small Videos	AES + RSA
+    Large Videos	ChaCha20
+    Large Files	ChaCha20
+    
 🧠 AI Decision Rules
-High-risk or confidential files use AES + RSA Hybrid Encryption.
-Large videos and media files use ChaCha20 for improved performance.
-Large files are automatically optimized for encryption speed.
-The AI assistant provides simple explanations for every recommendation.
+
+    High-risk or confidential files use AES + RSA Hybrid Encryption.
+    Large videos and media files use ChaCha20 for improved performance.
+    Large files are automatically optimized for encryption speed.
+    The AI assistant provides simple explanations for every recommendation.
+    
 🛠 Technologies Used
-Python
-CustomTkinter
-SQLite
-AES-256
-RSA-2048
-ChaCha20
-bcrypt
-Lemma AI Agents
+
+    Python
+    CustomTkinter
+    SQLite
+    AES-256
+    RSA-2048
+    ChaCha20
+    bcrypt
+    Lemma AI Agents
+    
 📷 Screenshots
+
 Login Page
 
-(Add Screenshot)
+<img width="1920" height="1020" alt="Screenshot 2026-06-28 115203" src="https://github.com/user-attachments/assets/e09963f0-8bf9-444e-be0a-b8454ee63a8d" />
 
 Dashboard
 
-(Add Screenshot)
+<img width="1127" height="851" alt="Screenshot 2026-06-27 172907" src="https://github.com/user-attachments/assets/e57ef9f7-86d8-47ae-ae49-bb32e65c7273" />
 
 Encryption Center
 
@@ -90,8 +112,7 @@ History Page
 
 🎥 Demo Video
 
-Demo Video Link:
-(Add Link Here)
+    Demo Video Link: https://drive.google.com/file/d/157EuP1tRVXf9zMAKtO1ydxou5q-gKJ_j/view?usp=drive_link
 
 📦 Installation
 
