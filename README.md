@@ -71,21 +71,21 @@ The platform intelligently selects the most suitable encryption algorithm based 
     
 🧠 AI Decision Rules
 
-    High-risk or confidential files use AES + RSA Hybrid Encryption.
-    Large videos and media files use ChaCha20 for improved performance.
-    Large files are automatically optimized for encryption speed.
-    The AI assistant provides simple explanations for every recommendation.
+    ✱ High-risk or confidential files use AES + RSA Hybrid Encryption.
+    ✱ Large videos and media files use ChaCha20 for improved performance.
+    ✱ Large files are automatically optimized for encryption speed.
+    ✱ The AI assistant provides simple explanations for every recommendation.
     
 🛠 Technologies Used
 
-    Python
-    CustomTkinter
-    SQLite
-    AES-256
-    RSA-2048
-    ChaCha20
-    bcrypt
-    Lemma AI Agents
+    ✔ Python
+    ✔ CustomTkinter
+    ✔ SQLite
+    ✔ AES-256
+    ✔ RSA-2048
+    ✔ ChaCha20
+    ✔ bcrypt
+    ✔ Lemma AI Agents
     
 📷 Screenshots
 
