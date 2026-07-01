@@ -8,44 +8,42 @@ The platform intelligently selects the most suitable encryption algorithm based 
 
 🔒 Hybrid AES + RSA Encryption
     
-    AES-256 encrypts file contents efficiently.
-    
-    RSA encrypts the AES session key for secure key exchange.
-    
-    Ideal for sensitive and confidential files.
+    ✱ AES-256 encrypts file contents efficiently.
+    ✱ RSA encrypts the AES session key for secure key exchange.
+    ✱ Ideal for sensitive and confidential files.
     
 ⚡ ChaCha20 Encryption
 
-    High-speed encryption for large files and multimedia content.
-    Optimized for videos and large datasets.
-    Provides strong security with excellent performance.
+    ✱ High-speed encryption for large files and multimedia content.
+    ✱ Optimized for videos and large datasets.
+    ✱ Provides strong security with excellent performance.
     
 🤖 AI Security Assistant
 
-    Analyzes uploaded files.
-    Calculates security score and risk level.
-    Recommends the most suitable encryption algorithm.
-    Explains recommendations in simple language.
+    ✱ Analyzes uploaded files.
+    ✱ Calculates security score and risk level.
+    ✱ Recommends the most suitable encryption algorithm.
+    ✱ Explains recommendations in simple language.
     
 📝 Supported File Types
 
-    Text Files (.txt)
-    Images (.png, .jpg, .jpeg)
-    Videos (.mp4, .avi, .mkv, .mov)
-    Documents (.pdf, .docx)
-    Spreadsheets (.xlsx, .csv)
-    Archives (.zip, .rar)
+    ➔ Text Files (.txt)
+    ➔ Images (.png, .jpg, .jpeg)
+    ➔ Videos (.mp4, .avi, .mkv, .mov)
+    ➔ Documents (.pdf, .docx)
+    ➔ Spreadsheets (.xlsx, .csv)
+    ➔ Archives (.zip, .rar)
     
 📜 Encryption History
 
-    Stores encryption and decryption activities.
-    Tracks file names, timestamps, and algorithms used.
+    ✱ Stores encryption and decryption activities.
+    ✱ Tracks file names, timestamps, and algorithms used.
     
 👤 User Authentication
 
-    Secure login and registration system.
-    Password hashing using bcrypt.
-    User-specific encryption history.
+    ✱ Secure login and registration system.
+    ✱ Password hashing using bcrypt.
+    ✱ User-specific encryption history.
     
 🏗 System Architecture
 
@@ -63,12 +61,13 @@ The platform intelligently selects the most suitable encryption algorithm based 
 
 🔐 Encryption Strategy
 
-    File Type	Recommended Algorithm
-    Sensitive Documents	AES + RSA
-    Images	AES + RSA
-    Small Videos	AES + RSA
-    Large Videos	ChaCha20
-    Large Files	ChaCha20
+    File Type                Recommended Algorithm
+    ----------------------------------------------
+    Sensitive Documents            AES + RSA
+    Images	                       AES + RSA
+    Small Videos	               AES + RSA
+    Large Videos                   ChaCha20
+    Large Files	                   ChaCha20
     
 🧠 AI Decision Rules
 
@@ -116,21 +115,22 @@ History Page
 
 📦 Installation
 
-Clone the repository:
-
-git clone https://github.com/VenkatVishal-VK/Encrypt-Pro.git
-
-Navigate to the project folder:
-
-cd Encrypt-Pro
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the application:
-
-python main.py
+    Clone the repository:
+    
+    git clone https://github.com/VenkatVishal-VK/Encrypt-Pro.git
+    
+    Navigate to the project folder:
+    
+    cd Encrypt-Pro
+    
+    Install dependencies:
+    
+    pip install -r requirements.txt
+    
+    Run the application:
+    
+    python main.py
+    
 🎯 Hackathon Objective
 
 Encryptor Pro was developed as a hackathon project to demonstrate how artificial intelligence and modern cryptography can work together to provide intelligent and user-friendly cybersecurity solutions.
