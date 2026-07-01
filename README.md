@@ -107,10 +107,10 @@ AI Security Assistant
 
 Lemma agent 
 
-    User input
+User input :
     <img width="1900" height="878" alt="Screenshot 2026-06-28 120218" src="https://github.com/user-attachments/assets/c61c1c79-9576-44de-9591-4c4e01617a87" />
     
-    Agent Recommendation
+Agent Recommendation :
     <img width="1918" height="883" alt="Screenshot 2026-06-28 120337" src="https://github.com/user-attachments/assets/a0f774c9-d0a2-49c8-9263-664029f02319" />
 
 History Page
